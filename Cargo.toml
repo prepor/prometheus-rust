@@ -2,5 +2,7 @@
 name = "prometheus"
 version = "0.1.0"
 authors = ["Andrew Rudenko <ceo@prepor.ru>"]
+description = "Prometheus client implementation"
+license = "MIT"
 
 [dependencies]
